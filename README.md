@@ -1,5 +1,5 @@
 # When AI Turns Insider: The Risk of “Agentic Misalignment” Is the Risk We Can’t Ignore
-
+***(Version 1.0) Author: Amit Sharma***
 
 
 My work centers on AI security, specifically around risk assessment and mitigation strategies for Agentic AI systems deployed in SaaS environments (Salesforce – AgentForce, ServiceNow AI Agents, Microsoft 365 Copilot & Copilot Studio etc.). My focus is on understanding the operational edge cases of intelligent systems and ensuring they don’t become operational threats but instead reduce risk for the enterprise.
